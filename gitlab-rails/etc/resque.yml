@@ -1,0 +1,1 @@
+production: unix:/var/opt/gitlab/redis/redis.socket
